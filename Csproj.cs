@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace DevopProj
 {
-    class Program
+    partial class Program
     {
+       
         static void Main(string[] args)
         {
+            new Program().Check();
             Console.WriteLine("Hello World");
             Console.WriteLine("this is for update check");
             Console.ReadKey();

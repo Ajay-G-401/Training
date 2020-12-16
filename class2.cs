@@ -1,15 +1,13 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace DevopProj
+namespace Proj
 {
     partial class Program
     {
-       public void PartialCheck(){
-       Console.WriteLine("partial class");
-       }
+        public void Check()
+        {
+            Console.WriteLine("partial class");
+        }
+
     }
 }
