@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i changed in local repo
+=======
+hey i changed in github
+>>>>>>> 5f1d3c7097c852858e61890cb306effdc0d26ce0
